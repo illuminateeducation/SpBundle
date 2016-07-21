@@ -34,6 +34,10 @@
         {
             "type": "vcs",
             "url": "git@github.com:illuminateeducation/SymfonyBridgeBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:illuminateeducation/lightSAML.git"
         }
     ],
     "config": {
